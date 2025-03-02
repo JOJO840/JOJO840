@@ -1,5 +1,20 @@
 # 💫 About Me:
-Junior DevOps Engineer | Cloud & Automation Enthusiast | IT & System Operations<br><br>🚀 Passionate about cloud computing, automation, and infrastructure management. I have hands-on experience with modern DevOps tools and technologies, gained through education, internships, and personal projects.<br><br>🛠️ Tech Stack & Skills:<br>Programming: Python, Java, BASH scripting<br>Cloud & Infrastructure: AWS, Terraform, Ansible<br>Containerization & Orchestration: Docker, Kubernetes (K8s, K3s)<br>CI/CD & Automation: Jenkins, Tekton<br>Monitoring & Logging: Prometheus, Loki, Grafana<br>Databases: MySQL, MongoDB, Postgres<br>Operating Systems: Ubuntu, Kali Linux, Windows Server, Windows 10/11<br>System Administration: Systemd, Shell scripting (Bash, Zsh)<br>Version Control: Git<br><br>📂 Projects & Experience:<br>DevOps Internship @ Fabled AB – Worked with Kubernetes clusters, Helm, Tekton CI/CD, and monitoring tools.<br>Developed a Battleship game and implemented CPU monitoring and process termination features using Python and BASH scripts.<br>Built Java applications – Created sorting algorithms, a toll calculator, and a memory game with OOP principles and JUnit testing.<br>Web development with Flask & MySQL – Designed a REST API and front-end using HTML & CSS.<br>Automated CI/CD Pipeline in AWS – Configured an automated deployment pipeline for EC2 instances.<br>Containerized applications with Docker – Deployed a Flask app and MySQL database using Docker Compose.<br>Infrastructure-as-Code with Terraform & Ansible – Provisioned AWS resources and configured services.<br><br>🔍 Always eager to learn new technologies and solve real-world IT challenges!<br>📫 Let's connect: https://www.linkedin.com/in/josip-jovanovic-b3b126234/
+Junior DevOps Engineer | Cloud & Automation Enthusiast | IT & System Operations<br><br>🚀 Passionate about cloud computing, automation, and infrastructure management. 
+I have hands-on experience with modern DevOps tools and technologies, gained through education, internships, and personal projects.<br><br>🛠️ 
+Tech Stack & Skills:<br>
+Programming: Python, Java, BASH scripting<br>Cloud & Infrastructure: AWS, Terraform, Ansible<br>
+Containerization & Orchestration: Docker, Kubernetes (K8s, K3s)<br>CI/CD & Automation: Jenkins, Tekton<br>
+Monitoring & Logging: Prometheus, Loki, Grafana<br>Databases: MySQL, MongoDB, Postgres<br>Operating Systems: Ubuntu, Kali Linux, Windows Server, Windows 10/11<br>
+System Administration: Systemd, Shell scripting (Bash, Zsh)<br>Version Control: Git<br><br>
+📂 Projects & Experience:
+<br>
+DevOps Internship @ Fabled AB – Worked with Kubernetes clusters, Helm, Tekton CI/CD, and monitoring tools.<br>Developed a Battleship game and implemented CPU monitoring and process termination features using Python and BASH scripts.<br>Built Java applications – Created sorting algorithms, a toll calculator, and a memory game with OOP principles and JUnit testing.<br>
+Web development with Flask & MySQL – Designed a REST API and front-end using HTML & CSS.<br>
+Automated CI/CD Pipeline in AWS – Configured an automated deployment pipeline for EC2 instances.<br>
+Containerized applications with Docker – Deployed a Flask app and MySQL database using Docker Compose.<br>
+Infrastructure-as-Code with Terraform & Ansible – Provisioned AWS resources and configured services.<br><br>
+🔍 Always eager to learn new technologies and solve real-world IT challenges!<br>
+📫 Let's connect: https://www.linkedin.com/in/josip-jovanovic-b3b126234/
 
 
 ## 🌐 Socials:
